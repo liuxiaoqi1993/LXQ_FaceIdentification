@@ -1,0 +1,2 @@
+# LXQ_FaceIdentification
+集成seetaface做的人脸识别小demo
